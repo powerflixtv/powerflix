@@ -5,14 +5,21 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]IPTV[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/carapacatv/addon/refs/heads/main/MENU%20TV/MENU%20TV.txt</externallink>
+<externallink>#</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]</name>
 <thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
-<externallink>https://raw.githubusercontent.com/carapacatv/addon/refs/heads/main/CATEGORIAS%20FILMES/MENU%20PRINCIPAL.txt</externallink>
+<externallink>3</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL QUE FICA DO LADO</thumbnail>
+<externallink>3</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
