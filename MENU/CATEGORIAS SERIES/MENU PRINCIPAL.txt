@@ -1,0 +1,93 @@
+<item>
+<title>[B]AÇAO[/B]</title>
+<link>#</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]AVENTURA[/B]</title>
+<link>#</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]COMEDIA[/B]</title>
+<link>#</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]DRAMA[/B]</title>
+<link>#</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]ROMANCE[/B]</title>
+<link>#</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]TERROR[/B]</title>
+<link>#</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]SUSPENSE[/B]</title>
+<link>#</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+
+<item>
+<title>[B]FICAO CIENTIFICA[/B]</title>
+<link>#</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+
+<item>
+<title>[B]FANTASIA[/B]</title>
+<link>#</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+
+<item>
+<title>[B]MUSICAL[/B]</title>
+<link>#</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+
+<item>
+<title>[B]ANIMAÇAO[/B]</title>
+<link>#</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+
+<item>
+<title>[B]DOCUMENTARIO[/B]</title>
+<link>#</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+
+
+
+

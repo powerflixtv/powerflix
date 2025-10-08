@@ -1,0 +1,29 @@
+<item>
+<title>[B]PORTUGAL[/B]</title>
+<link>#</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]BRASIL[/B]</title>
+<link>#</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]ESPANHA[/B]</title>
+<link>#</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+<item>
+<title>[B]WORLD[/B]</title>
+<link>#</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<info>TEXTO DE SINOPSE.</info>
+</item>
+
+
